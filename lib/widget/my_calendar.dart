@@ -59,7 +59,7 @@ class _MyCalendarState extends State<MyCalendar> {
                   padding: EdgeInsets.all(size.width * 0.015),
                   decoration: BoxDecoration(
                       borderRadius: BorderRadius.circular(size.width * 0.05),
-                      // color: Colors.blue.withOpacity(.4)
+                      color: Colors.blue.withOpacity(.4)
                   ),
                   child: Row(
                     children: [
